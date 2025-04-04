@@ -1,3 +1,14 @@
+
+![14final deploy](https://github.com/user-attachments/assets/36f1aa8f-fb60-4ed8-80de-2032e77f3d31)
+
+
+![13 get load balancer address](https://github.com/user-attachments/assets/9392240c-0c46-40cf-ad51-b0a83ae140cb)
+![12create load balancer](https://github.com/user-attachments/assets/ad7565a7-67b0-4a7b-8011-3d332266fbd3)
+
+
+![10](https://github.com/user-attachments/assets/9a4fc90a-f244-4aeb-be9d-ebd268894000)
+
+
 # AWS EKS 
 
 ## Introduction
